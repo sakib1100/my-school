@@ -2,7 +2,7 @@
 HTML boilerplate template for school website
 
 
-[Demo](http://sms.hrshadhin.me)
+
 
 # usage
     npm install
